@@ -1,0 +1,2 @@
+mkdir dist
+zip -r dist/lambda.zip src/lambda
